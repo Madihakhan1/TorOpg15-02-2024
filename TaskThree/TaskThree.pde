@@ -1,6 +1,1 @@
 //TaskThree
-
-void setup() {
-
-
-}
